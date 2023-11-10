@@ -44,11 +44,11 @@
 
 	Student 			Student 		        Average
 	Number		  	         Name			         Grade
-    (SNO-OUT)	                     (SNAME-OUT)		       (AVE-OUT)
+       (SNO-OUT)	              (SNAME-OUT)		       (AVE-OUT)
 
-	001				    Rachel	  		  1.50
-	002				    MJ				  1.00
-	003				    SC				  4.00
+	001				 Rachel	  		          1.50
+	002				   MJ				  1.00
+	003				   SC				  4.00
 
 	Total Passed:	    2 (PCTR-OUT) 	 
 	Total Failed:	    1 (FCTR-OUT)	
